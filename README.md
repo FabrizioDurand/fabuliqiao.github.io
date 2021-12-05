@@ -1,3 +1,18 @@
+- https://www.codecademy.com/catalog/language/html-css
+- https://www.codecademy.com/catalog/language/javascript
+- Edit Github pages
+  - TODOS
+- https://www.docker.com/get-started
+  - Node
+    - ExpressJS
+      - Simple api developpment CRUD
+  - Data
+    - BDD Mysql 
+  - Frontend - Github Pages ?        
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fabuliqiao/fabuliqiao.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
