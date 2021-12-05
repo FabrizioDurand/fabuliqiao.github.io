@@ -9,8 +9,8 @@
   - Data
     - BDD Mysql 
   - Frontend - Github Pages ?        
-
-
+ 
+  - pour jouer boulzy ou foulek plus tard: commit rebase 
 
 
 ## Welcome to GitHub Pages
