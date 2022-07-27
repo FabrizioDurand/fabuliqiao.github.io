@@ -1,5 +1,12 @@
 - tuto git
 - https://www.codecademy.com/catalog/language/html-css
+- https://www.codecademy.com/catalog/language/ruby
+- https://www.codecademy.com/catalog/language/sql
+- https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
+- https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
+- https://www.theodinproject.com/about
+- https://www.codementor.io/projects/web/road-trip-planner-ce2l7lxjrm
+
 - https://www.codecademy.com/catalog/language/javascript
 - Edit Github pages
   - TODOS
