@@ -4,6 +4,14 @@
 - https://www.codecademy.com/catalog/language/sql
 - https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 - https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
+
+Exercices plus poussés Ruby:
+  - https://exercism.org/tracks/ruby
+  - https://www.hackerrank.com/domains/ruby
+  - http://rubykoans.com/
+  - https://www.rubyguides.com/
+  - https://rubylearning.com/
+
 - https://www.theodinproject.com/about
 - https://www.codementor.io/projects/web/road-trip-planner-ce2l7lxjrm
 
