@@ -3,7 +3,10 @@ x https://www.codecademy.com/catalog/language/ruby
 x https://www.codecademy.com/catalog/language/sql
 x https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 x https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
-- https://www.codecademy.com/catalog/language/javascript
+- JS:
+    - https://www.codecademy.com/catalog/language/javascript
+    - https://codetogo.io/
+    - https://learnjavascript.online/?utm_source=codetogo.io
 - Projet m
 
 Exercices plus poussés Ruby:
