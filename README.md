@@ -6,6 +6,7 @@
 - https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
 
 Exercices plus poussés Ruby:
+  - https://www.codewars.com/
   - https://exercism.org/tracks/ruby
   - https://www.hackerrank.com/domains/ruby
   - http://rubykoans.com/
