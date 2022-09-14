@@ -4,7 +4,8 @@ x https://www.codecademy.com/catalog/language/sql
 x https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 x https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
 - JS:
-    - https://www.codecademy.com/catalog/language/javascript
+    x https://www.codecademy.com/catalog/language/javascript
+    - https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript
     - https://codetogo.io/
     - https://learnjavascript.online/?utm_source=codetogo.io
 - Projet m
