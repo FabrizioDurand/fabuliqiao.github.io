@@ -1,14 +1,21 @@
-x https://www.codecademy.com/catalog/language/html-css
-x https://www.codecademy.com/catalog/language/ruby
-x https://www.codecademy.com/catalog/language/sql
-x https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
-x https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
+- HTML/CSS:
+    x https://www.codecademy.com/catalog/language/html-css
+- Ruby: 
+    x https://www.codecademy.com/catalog/language/ruby
+- BDD:
+    x https://www.codecademy.com/catalog/language/sql
+- Git:
+    x https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
+    x https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github
 - JS:
     x https://www.codecademy.com/catalog/language/javascript
-    - https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript
+    - https://www.codecademy.com/learn/learn-intermediate-javascript
     - https://codetogo.io/
     - https://learnjavascript.online/?utm_source=codetogo.io
-- Projet m
+-Rails:
+    - https://gorails.com/
+    - https://www.guru99.com/ruby-on-rails-tutorial.html
+    - https://www.theodinproject.com/about
 
 Exercices plus poussés Ruby:
   - https://www.codewars.com/
@@ -18,7 +25,6 @@ Exercices plus poussés Ruby:
   - https://www.rubyguides.com/
   - https://rubylearning.com/
 
-- https://www.theodinproject.com/about
 - https://www.codementor.io/projects/web/road-trip-planner-ce2l7lxjrm
 
 
