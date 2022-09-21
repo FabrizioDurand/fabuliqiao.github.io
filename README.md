@@ -12,7 +12,7 @@
     - https://www.codecademy.com/learn/learn-intermediate-javascript
     - https://codetogo.io/
     - https://learnjavascript.online/?utm_source=codetogo.io
--Rails:
+- Rails:
     - https://gorails.com/
     - https://www.guru99.com/ruby-on-rails-tutorial.html
     - https://www.theodinproject.com/about
