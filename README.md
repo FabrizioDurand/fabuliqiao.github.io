@@ -27,6 +27,8 @@ Exercices plus poussés Ruby:
 
 - https://www.codementor.io/projects/web/road-trip-planner-ce2l7lxjrm
 
+- Blockchain:
+    - https://www.codecademy.com/courses/introduction-to-blockchain-and-crypto/informationals/welcome-to-introduction-to-blockchain-and-crypto
 
 - Edit Github pages
   - TODOS
